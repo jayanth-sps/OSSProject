@@ -99,7 +99,7 @@ Example:
 
  bash
   
-  ./log_analyzer.sh
+  ./script4.sh
 
 ---
 
