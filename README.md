@@ -33,17 +33,15 @@ This project explores open-source concepts using Linux and shell scripting. It i
 
 linux-shell-project/
 
-│── system_identity_report.sh
+│── script5.sh
 
-│── foss_package_inspector.sh
+│── script4.sh
 
-│── disk_auditor.sh
+│── script3.sh
 
-│── log_file_counter.sh
+│── script2.sh
 
-│── manifesto_generator.sh
-
-│── log_analyzer.sh
+│── script1.sh
 
 │── README.md
 
